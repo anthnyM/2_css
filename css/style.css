@@ -23,3 +23,21 @@ body{
     height: 130px;
     background-color: hsl(73, 38%, 50%);
 }
+
+#sp1{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(75, 36, 56);
+}
+
+a[title]{
+    color: aqua;
+}
+
+button:hover{
+    background-color: green;
+}
+
+input:disabled{
+    border: 2px solid orange;
+}
