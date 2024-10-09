@@ -1,4 +1,4 @@
-h1,p{
+/* h1,p{
     color: #36974e;
 }
 
@@ -40,4 +40,43 @@ button:hover{
 
 input:disabled{
     border: 2px solid orange;
+} */
+
+/* .hijo1~div{
+    color:violet
 }
+
+.foo{
+    color: green;
+}
+
+#bar{
+    color: red;
+} */
+
+/* .foo, .bar{
+            color: red;
+        }
+        .baz{
+            color: blue;
+        }
+        .abuelo div{
+            color:green
+        } */
+        /* .abuelo>div{
+           color:orange;
+        } */
+        /* .hijo1{
+            color: yellow;
+        } */
+
+
+#outer #inner a {
+    background-color: blue;
+}
+#outer a{
+    background-color: red;
+}
+
+
+
